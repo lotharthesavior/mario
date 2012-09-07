@@ -1,0 +1,14 @@
+
+O jogo de teste consiste em uma pequena versão de Mario onde o Mario pode:
+	1.pular tartarugas, 
+	2.matá-las pulando em suas cabeças, 
+	3.pular buracos, 
+	4.correr, 
+	5.quebrar tijolos.
+
+
+Passo 1:
+O cenário deve dar a sensação de que estamos realmente andando por ele. Quando o Mário anda, ele anda sobre a terra que fica logo diante de nós, porém o fundo anda acompanhando seu movimento.
+
+Passo 2:
+O Mario anda sobre o cenário, em frames do personagem, passando a sensação de movmento.
